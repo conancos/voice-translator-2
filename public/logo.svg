@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="64" height="64">
+  <!-- fondo con esquinas redondeadas (opcional) -->
+  <rect width="24" height="24" rx="4" fill="#0f172a"/>
+  <!-- cuerpo del micrófono -->
+  <path d="M12 3a3 3 0 0 0-3 3v5a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3z" fill="#ffffff"/>
+  <!-- soporte / mano -->
+  <rect x="11" y="14" width="2" height="3" rx="1" fill="#ffffff"/>
+  <!-- ondas de voz (estilo simple) -->
+  <path d="M8 17a6 6 0 0 0 8 0" stroke="#60a5fa" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>

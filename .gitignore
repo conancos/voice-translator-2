@@ -1,0 +1,95 @@
+# .gitignore para proyecto mixto (Node/Python/IA/voz)
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs / editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+dist/
+build/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+pyvenv.cfg
+.env
+.env.* 
+venv/
+.venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.python-version
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Tests / coverage
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# Logs
+*.log
+
+# Cachés y temporales
+.cache/
+.tmp/
+.npm/
+*.tgz
+
+# Binarios / compilados
+*.so
+*.dll
+*.exe
+*.o
+*.obj
+
+# Modelos y pesos (archivos grandes común en proyectos de IA)
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.onnx
+*.tflite
+*.h5
+
+# Docker / env de despliegue
+docker-compose.override.yml
+.env.local
+.env.production
+.env.*.local
+
+# Otros
+thumbs.db
+.idea/
+
+scaffold.md
+
+# Next.js / Vercel outputs
+.next/
+.next/cache/
+.vercel/
+.output/
+.out/
