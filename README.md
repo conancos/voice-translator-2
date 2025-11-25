@@ -54,8 +54,7 @@ Esto lanzará el servidor de desarrollo. Abre `http://localhost:3000` en Chrome 
 Si quieres que haga pruebas E2E desde el entorno o que añada persistencia en localStorage/DB, dime y lo preparo.
 Puedes contactarme através de Linkedin.
 
+<br>
 
-<center>
+>_**Hecho con ❤ y mucha paciencia, para contribuir aportando aplicaciones que ayuden o faciliten de algún modo al usuario.**_
 
-<mark>&nbsp;**_Hecho con ❤ y mucha paciencia, para contribuir aportando aplicaciones que ayuden o faciliten de algún modo al usuario._**&nbsp;
-</mark></center>
